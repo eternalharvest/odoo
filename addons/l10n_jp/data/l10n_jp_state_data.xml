@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!--
+        Resource: res.country.state
+        Update states
+        -->
+        <record id="state_jp_jp-01" model="res.country.state">
+            <field name="code">01</field>
+            <field name="name">北海道</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-02" model="res.country.state">
+            <field name="code">02</field>
+            <field name="name">青森県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-03" model="res.country.state">
+            <field name="code">03</field>
+            <field name="name">岩手県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-04" model="res.country.state">
+            <field name="code">04</field>
+            <field name="name">宮城県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-05" model="res.country.state">
+            <field name="code">05</field>
+            <field name="name">秋田県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-06" model="res.country.state">
+            <field name="code">06</field>
+            <field name="name">山形県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-07" model="res.country.state">
+            <field name="code">07</field>
+            <field name="name">福島県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-08" model="res.country.state">
+            <field name="code">08</field>
+            <field name="name">茨城県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-09" model="res.country.state">
+            <field name="code">09</field>
+            <field name="name">栃木県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-10" model="res.country.state">
+            <field name="code">10</field>
+            <field name="name">群馬県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-11" model="res.country.state">
+            <field name="code">11</field>
+            <field name="name">埼玉県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-12" model="res.country.state">
+            <field name="code">12</field>
+            <field name="name">千葉県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-13" model="res.country.state">
+            <field name="code">13</field>
+            <field name="name">東京都</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-14" model="res.country.state">
+            <field name="code">14</field>
+            <field name="name">神奈川県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-15" model="res.country.state">
+            <field name="code">15</field>
+            <field name="name">新潟県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-16" model="res.country.state">
+            <field name="code">16</field>
+            <field name="name">富山県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-17" model="res.country.state">
+            <field name="code">17</field>
+            <field name="name">石川県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-18" model="res.country.state">
+            <field name="code">18</field>
+            <field name="name">福井県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-19" model="res.country.state">
+            <field name="code">19</field>
+            <field name="name">山梨県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-20" model="res.country.state">
+            <field name="code">20</field>
+            <field name="name">長野県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-21" model="res.country.state">
+            <field name="code">21</field>
+            <field name="name">岐阜県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-22" model="res.country.state">
+            <field name="code">22</field>
+            <field name="name">静岡県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-23" model="res.country.state">
+            <field name="code">23</field>
+            <field name="name">愛知県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-24" model="res.country.state">
+            <field name="code">24</field>
+            <field name="name">三重県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-25" model="res.country.state">
+            <field name="code">25</field>
+            <field name="name">滋賀県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-26" model="res.country.state">
+            <field name="code">26</field>
+            <field name="name">京都府</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-27" model="res.country.state">
+            <field name="code">27</field>
+            <field name="name">大阪府</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-28" model="res.country.state">
+            <field name="code">28</field>
+            <field name="name">兵庫県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-29" model="res.country.state">
+            <field name="code">29</field>
+            <field name="name">奈良県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-30" model="res.country.state">
+            <field name="code">30</field>
+            <field name="name">和歌山県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-31" model="res.country.state">
+            <field name="code">31</field>
+            <field name="name">鳥取県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-32" model="res.country.state">
+            <field name="code">32</field>
+            <field name="name">島根県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-33" model="res.country.state">
+            <field name="code">33</field>
+            <field name="name">岡山県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-34" model="res.country.state">
+            <field name="code">34</field>
+            <field name="name">広島県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-35" model="res.country.state">
+            <field name="code">35</field>
+            <field name="name">山口県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-36" model="res.country.state">
+            <field name="code">36</field>
+            <field name="name">徳島県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-37" model="res.country.state">
+            <field name="code">37</field>
+            <field name="name">香川県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-38" model="res.country.state">
+            <field name="code">38</field>
+            <field name="name">愛媛県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-39" model="res.country.state">
+            <field name="code">39</field>
+            <field name="name">高知県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-40" model="res.country.state">
+            <field name="code">40</field>
+            <field name="name">福岡県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-41" model="res.country.state">
+            <field name="code">41</field>
+            <field name="name">佐賀県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-42" model="res.country.state">
+            <field name="code">42</field>
+            <field name="name">長崎県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-43" model="res.country.state">
+            <field name="code">43</field>
+            <field name="name">熊本県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-44" model="res.country.state">
+            <field name="code">44</field>
+            <field name="name">大分県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-45" model="res.country.state">
+            <field name="code">45</field>
+            <field name="name">宮崎県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-46" model="res.country.state">
+            <field name="code">46</field>
+            <field name="name">鹿児島県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+        <record id="state_jp_jp-47" model="res.country.state">
+            <field name="code">47</field>
+            <field name="name">沖縄県</field>
+            <field name="country_id" ref="base.jp"/>
+        </record>
+    </data>
+</odoo>

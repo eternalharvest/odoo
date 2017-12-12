@@ -28,9 +28,10 @@ need to use these at all under normal circumstances.
     """,
     'author': 'Rooms For (Hong Kong) Limited T/A OSCG',
     'website': 'http://www.openerp-asia.net/',
-    'depends': ['account'],
+    'depends': ['base', 'account'],
     'data': [
         'data/l10n_jp_chart_data.xml',
+	'data/l10n_jp_state_data.xml',
         'data/account.account.template.csv',
         'data/account.tax.group.csv',
         'data/account.tax.template.csv',
